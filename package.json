@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/jnnolasco19-maker/Group5/issues"
   },
-  "homepage": "https://github.com/jnnolasco19-maker/Group5#readme"
+  "homepage": "https://github.com/jnnolasco19-maker/Group5#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4"
+  },
+  "devDependencies": {}
 }
